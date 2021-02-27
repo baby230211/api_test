@@ -19,3 +19,5 @@
 3.vue-router-link router-view的觀念
 
 4.vue-router會擋住url的變化
+
+5.在部署到github pages時候 proxy會失效 反而不會有CORS的問題
